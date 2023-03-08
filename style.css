@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+     overflow-x: hidden;
+    font-family: Cursive;
+    background-image: url("port2.webp");
+}
+.wrapper{
+    position: absolute;
+    left: 10%;
+    top: 40%;
+}
+.links{
+    position: absolute;
+    left: 10%;
+    top: 75%;
+}
